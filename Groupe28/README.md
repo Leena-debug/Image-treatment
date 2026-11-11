@@ -36,10 +36,11 @@ coco-rag-g28/
 │   ├── 04_data_splitting_metadata.ipynb
 │   ├── 05_embedding_preparation.ipynb
 │   └── 06_Testing_Dataset_Preparation.ipynb
-│
+│visualisation/
 ├── src/                       # Python source code/modules
 ├── figures/                   # Final plots and visualizations for the report
 ├── .gitignore                 # Excludes heavy datasets from GitHub
 ├── README.md                  # Project documentation
 └── requirements.txt           # Python dependencies
+
 ```
